@@ -1,8 +1,5 @@
 # Quote uploader
 
-### Video
-![video.mp4](https://github.com/anhsirk0/quote-uploader/blob/master/screenshots/video.mp4)
-
 ## Working 
 0. Select an author's name from author_list.txt
 1. Download images from brainyquote using wget
